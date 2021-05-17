@@ -1,0 +1,52 @@
+Question 1)
+What are the key elements of a Hybrid Multicloud strategy ? Select two.
+==>
+Connects an organization’s on-premise private cloud and third-party public cloud into a single infrastructure 
+Allows you to leverage the best of cloud models and services across different cloud providers so that your applications and workloads work seamlessly across multiple clouds 
+
+Question 2)
+What are some of the benefits of using microservices architecture ? Select two.
+==>
+Application components can be developed and updated independently of each other 
+Components facing varied amounts of load can be scaled independently 
+
+Question 3)
+Serverless might not be the best fit for all applications or scenarios. Which of these attributes qualify an application for a serverless architecture ?
+==>
+Microservices that can be built as functions that are stateless 
+
+Question 4)
+What are the characteristics of a cloud native application ?
+==>
+Collection of microservices working together as a whole to comprise an application 
+
+Question 5)
+DevOps’ tools, practices, and processes are helping tackle some of the complexities and challenges posed by the cloud. Identify two ways in which DevOps is mitigating these challenges.
+==>
+By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable 
+By creating an automated deployment pipeline
+
+Question 6)
+Cloud adoption is an integral part of application modernization. What are the other two important components of modernization ? 
+==>
+Microservices and DevOps 
+
+Question 7)
+One of the key characteristics of Hybrid Multicloud is portability. What does portability mean in the context of Hybrid Cloud ?
+==>
+The flexibility to move applications and data between systems and cloud service providers 
+
+Question 8)
+What is an attribute that distinguishes serverless computing from other compute models ? 
+==>
+The serverless model requires no provisioning of servers, installation of application stacks, or operation of the infrastructure by the users/developers 
+
+Question 9)
+Which one of these statements is NOT true of a microservices architecture approach ?
+==>
+When one of the microservices of an application stops to function, it disrupts the functioning of the complete application 
+
+Question 10)
+Which one of the following statements does NOT describe the DevOps approach and process ? 
+==>
+Eliminates the need to provision servers, build middleware, and install application code
