@@ -1,0 +1,39 @@
+Question 1. What are some of the key elements of data protection discussed in the “What is Cloud Security” video?
+A.     Data at rest
+B.      Data in motion
+C.      Data in use
+D.     Dynamic and static scanning of applications
+==> A, B, and C only  
+
+Question 2. What are some of the monitoring tools that help you to gain insights about your posture, compliance, and threats? Select two.
+==> Flow logs from the network    
+==> Security events    
+
+Question 3. What is the role SecDevOps plays in cloud security?
+==> Security in the DevOps process helps embed security through the life cycle of an application    
+
+Question 4. What are some of the benefits of using access groups? Select two.
+==> The use of access groups helps to reduce the number of policies in an account 
+==> Access groups provide a more streamlined way to assign access rights to a group of users and service IDs as compared to assigning individual access 
+
+Question 5. Identify the two main parts of an encryption system from the provided options. Select two.
+==> The encryption algorithm 
+==> The decryption key
+
+Question 6. What are some of the benefits that cloud monitoring solutions offer? Select two.
+==> Provide proactive notifications of abnormal or unusual situations 
+==> Accelerate the diagnosis and resolution of performance incidents 
+
+Question 7. What are some of the common outcomes’ companies like The Weather Company, American Airlines, Cementos Pacasmayo, Welch Foods, and LiquidPower achieve with cloud migration?  
+A.     Meeting the information/service needs of their customers
+B.      Resolving their scalability challenge
+C.      Cost efficiencies
+==> A, B, and C 
+
+Question 8. The Weather Company migrated its weather web property to a secure, scalable, and global architecture in the IBM Cloud. What are some of the benefits they realized as a result of this migration? Select two.
+==> Optimize their systems for elasticity in handling extreme spikes in demand which can mean a difference between life and death for its users    
+==> Harness local data centers to minimize latency for users spread across the globe    
+
+Question 9. What are some of the technical skills necessarily required for the role of Cloud Software Engineer? Select two.
+==> Knowledge of data structures, distributed systems, operating systems, and algorithms 
+==> Proficiency in commonly used web application development languages, such as Python, JavaScript, Java, HTML, and CSS 

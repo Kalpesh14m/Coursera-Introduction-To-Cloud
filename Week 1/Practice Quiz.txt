@@ -1,0 +1,28 @@
+Question 1. Which cloud deployment model lets users use multiple cloud models working together seamlessly?
+==>  Hybrid
+
+Question 2. What 1950s technology helped evolve to Virtual Machines (VMs)?
+==> Shared access of a mainframe
+
+Question 3. What are some cloud computing benefits? Select two.
+==> Flexibility and efficiency
+==> Competitive advantage    
+
+Question 4. Which of these vendors are known more for their SaaS offerings?
+==> Salesforce, SAP, Oracle Cloud 
+
+Question 5. According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today’s markets?
+==> Data-driven decisions
+
+Question 6. How did UBank leverage the cloud to remove barriers to innovation?
+==> By adopting a PaaS cloud development model to streamline development and empower product teams 
+
+Question 7. How does Cloud Computing help IoT devices? Select two.
+==> Minimize latency in reporting and responding to data collected through IoT sensors from around the world
+==> Provide the resources to store and process the data produced by IoT devices and users
+
+Question 8. Which of these statements best reflects the symbiotic relationship between AI and IoT on the Cloud?
+==> AI consumes data produced by IoT devices. Based on conclusions drawn by AI algorithms on patterns emerging this data, IoT devices learn to anticipate user actions based on past actions and respond to them based on their preferences.
+
+Question 9. How does Blockchain support AI?
+==> Blockchain provides the trusted, decentralized source of truth lending trust and transparency to the decisions made by AI algorithms.

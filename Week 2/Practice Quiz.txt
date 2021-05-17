@@ -1,0 +1,22 @@
+Question 1. In the car analogy used in the video to explain and differentiate between the three service models, which of the provided options is an analogy for PaaS?
+==> Renting a car
+
+Question 2. According to the IaaS video, which one of these is NOT a likely use case for IaaS? 
+==> Retaining in-house control over workload availability and performance
+
+Question 3. Which of these scenarios are good use cases for PaaS. Select two.
+==> API Development and Management
+==> Build, test, deploy, enhance, and scale applications rapidly and cost-effectively
+
+Question 4. Which one of the following is a good use case for SaaS?
+==> Organizations looking to reduce on-premises IT infrastructure and capital expenditure
+
+Question 5. Which of these scenarios are good use cases for Public Cloud? Select two.
+==> Disaster recovery, data protection, and business continuity
+==> Reducing time-to-market for products and services
+
+Question 6. Private cloud platforms can be implemented internally or externally. What is an external private cloud platform?
+==> Virtual Private Cloud or VPC
+
+Question 7.What do we mean when we say that the Hybrid Cloud is interoperable?
+==> The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization

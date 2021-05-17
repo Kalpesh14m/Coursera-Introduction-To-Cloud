@@ -1,0 +1,39 @@
+Question 1
+What are some best practices organizations need to follow in order to protect their cloud resources and systems ? Select two.
+==>
+Active monitoring for security and compliance 
+Adopt a shared responsibility model 
+
+
+Question 2)
+Which of the following are key components of Identity and Access Management (IAM) ? Select two.
+==>
+Audit and Compliance 
+Cloud Directory Services 
+
+
+Question 3
+Which of these statements are true of cloud encryption
+A.   Encryption ensures only authorized users have access to sensitive dat
+B.   When encrypted data is intercepted without authorization, it is unreadable and meaningles
+C.   Encryption protects data when it is at rest, in transit, and in use in memo
+D.   Encryption eliminates data security risk
+==>
+A, B, and C only 
+
+Question 4)
+Identify some of the standard cloud monitoring best practices from the provided options. Select two. 
+==>
+Track usage and cost of your cloud resources and services 
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users
+
+
+Question 5)
+Which job role requires the following skills ?
+Collaboration with development and operations teams 
+Containerization expertise
+Creating custom automation tools
+Building and maintaining configuration and deployment frameworks
+Monitoring security and measuring performance 
+==>
+Cloud DevOps Engineer 
